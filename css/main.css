@@ -1,3 +1,57 @@
 html {
   font-family: Arapey, serif;
+  text-align: left;
+}
+
+div {
+  padding-top: 5em;
+}
+
+p {
+  color: #00350b;
+  margin-bottom: 0;
+}
+
+.word .name {
+  display: block;
+}
+
+.word {
+  color: #ad0344;
+}
+
+.quote .para {
+  display: inline-block;
+}
+
+@media only screen and (min-width: 60em) {
+
+  html {
+    text-align: center;
+  }
+
+  .word:hover {
+    color:
+  }
+
+  .quote {
+    display: inline;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    text-align: center;
+  }
+
+  .word:hover {
+    color:
+  }
+
+  quote {
+    display: inline;
+  }
+
 }
