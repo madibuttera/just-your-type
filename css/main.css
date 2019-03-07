@@ -5,10 +5,6 @@ html {
   margin-top: 2em;
 }
 
-div {
-
-}
-
 p {
   color: #fff;
   margin-bottom: 0;
@@ -39,10 +35,6 @@ h1 {
     margin-top: 5em;
   }
 
-  div {
-
-  }
-
   .word:hover {
     color: #d19108;
   }
@@ -58,10 +50,6 @@ h1 {
   html {
     text-align: center;
     margin-top: 5em;
-  }
-
-  div {
-
   }
 
   .word:hover {
