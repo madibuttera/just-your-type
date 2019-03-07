@@ -2,10 +2,11 @@ html {
   font-family: Arapey, serif;
   text-align: left;
   background-color: #70ccc4;
+  margin-top: 2em;
 }
 
 div {
-  margin-top: 2em;
+
 }
 
 p {
@@ -35,10 +36,11 @@ h1 {
 
   html {
     text-align: center;
+    margin-top: 5em;
   }
 
   div {
-    margin-top: 5em;
+
   }
 
   .word:hover {
@@ -55,10 +57,11 @@ h1 {
 
   html {
     text-align: center;
+    margin-top: 5em;
   }
 
   div {
-    margin-top: 5em;
+
   }
 
   .word:hover {
