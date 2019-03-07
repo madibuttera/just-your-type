@@ -1,14 +1,15 @@
 html {
   font-family: Arapey, serif;
   text-align: left;
+  background-color: #70ccc4;
 }
 
 div {
-  padding-top: 5em;
+  margin-top: 5em;
 }
 
 p {
-  color: #00350b;
+  color: #fff;
   margin-bottom: 0;
 }
 
@@ -20,14 +21,18 @@ p {
   color: #ad0344;
 }
 
-.quote .para {
-  display: inline-block;
+.quote {
+  color: 000;
 }
 
 @media only screen and (min-width: 60em) {
 
   html {
     text-align: center;
+  }
+
+  div {
+    margin-top: 2em;
   }
 
   .word:hover {
